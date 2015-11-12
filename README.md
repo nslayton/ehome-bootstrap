@@ -8,4 +8,4 @@ A modified version of Twitter Bootstrap to make eHome mobile responsive with cle
 
 ## Plan
 
-## Benefits
+## Setup
